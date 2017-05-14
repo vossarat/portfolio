@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('template');
 });
 
-Route::post('/contact', 'ContactMeController@contactMe');
+Route::post('/contact', 'ContactMeController@ContactMe');
