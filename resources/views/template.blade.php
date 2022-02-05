@@ -10,7 +10,7 @@
         <meta name="description" content="">
         <meta name="author" content="Тарасов Дмитрий">
 
-        <title>Тарасов Дмитрий</title>
+        <title>Тарасов Дмитрий.</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
